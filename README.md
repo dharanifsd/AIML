@@ -42,5 +42,5 @@ Future work in this area could focus on:
 - Deploying the predictive model in real-world power supply systems for continuous monitoring and preventive maintenance.
   
 
-Copyright (c) [2024] [Dharanifsd]
+
 
