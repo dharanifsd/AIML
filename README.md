@@ -11,7 +11,7 @@ This project aims to develop a predictive model for fault detection in power sup
 5. [Results](#results)
 6. [Conclusion](#conclusion)
 7. [Future Work](#future-work)
-8. [References](#references)
+
 
 ## Introduction
 With the increasing complexity and criticality of power supply systems, the ability to predict and prevent faults is crucial to ensure continuous and reliable operation. Traditional methods of fault detection often rely on manual inspection or basic threshold-based alarms, which may not be sufficient for early detection of potential issues. In this project, we leverage machine learning algorithms to develop a predictive model capable of identifying potential faults in power supply units.
@@ -40,7 +40,7 @@ Future work in this area could focus on:
 - Exploring ensemble learning techniques to further improve fault prediction accuracy.
 - Integrating additional features such as environmental conditions and maintenance history.
 - Deploying the predictive model in real-world power supply systems for continuous monitoring and preventive maintenance.
+  
 
-## References
-1. Zhang, X., Jiang, X., & Zhu, X. (2018). Fault Diagnosis of Power Supply System Based on Naive Bayes Algorithm. *2018 International Conference on Smart Grid and Electrical Automation (ICSGEA)*.
-2. Breiman, L., Friedman, J. H., Olshen, R. A., & Stone, C. J. (1984). *Classification and Regression Trees*. CRC press.
+Copyright (c) [2024] [Dharanifsd]
+
